@@ -1,0 +1,9 @@
+{
+  "bottle": 100.0,
+  "leather": 99.73,
+  "wood": 99.56,
+  "metal_nut": 99.41,
+  "hazelnut": 96.14,
+  "tile": 99.13,
+  "mean_6_categories": 99.0
+}

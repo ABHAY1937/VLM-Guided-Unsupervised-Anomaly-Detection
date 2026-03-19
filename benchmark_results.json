@@ -1,0 +1,18 @@
+{
+  "bottle": 97.3,
+  "cable": 85.01,
+  "capsule": 87.99,
+  "carpet": 97.79,
+  "grid": 96.83,
+  "hazelnut": 84.5,
+  "leather": 100.0,
+  "metal_nut": 74.29,
+  "pill": 81.26,
+  "screw": 54.31,
+  "tile": 88.6,
+  "toothbrush": 77.5,
+  "transistor": 69.46,
+  "wood": 98.33,
+  "zipper": 84.9,
+  "mean": 85.2
+}
