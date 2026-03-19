@@ -100,7 +100,7 @@ Tested on [MVTec Anomaly Detection Dataset](https://www.mvtec.com/company/resear
 ## Quickstart
 
 ```bash
-git clone https://github.com/ABHAY1937/vlm-anomaly-detection
+git clone https://github.com/ABHAY1937/VLM-Guided-Unsupervised-Anomaly-Detection
 cd vlm-anomaly-detection
 pip install -r requirements.txt
 ```
